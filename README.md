@@ -2,7 +2,7 @@
 A python-replica of the popular game minecraft with exploding tnt, real-world physics, textures, player movement, biomes, chunks, creative mode, fog and so much more.
 
 
-Some file descriptions: 
+Some file/folder descriptions: 
  >  - textures: texture pngs that may or may not have been taken from the actual game #dontsue?
  >  - block.py: block properties
  >  - chunk.py: chunk properties
