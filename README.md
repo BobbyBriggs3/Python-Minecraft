@@ -3,8 +3,8 @@ A python-replica of the popular game minecraft with exploding tnt, real-world ph
 
 
 Some file descriptions: <br>
-   &nbsp;&nbsp; - textures: texture pngs that may or may not have been taken from the actual game #dontsue?<br>
-   &nbsp;&nbsp; - block.py: block properties<br>
+  - textures: texture pngs that may or may not have been taken from the actual game #dontsue?<br>
+ - block.py: block properties<br>
    &nbsp;&nbsp; - chunk.py: chunk properties<br>
    &nbsp;&nbsp; - player.py: all player attributes <br>
    &nbsp;&nbsp; - world.py: generates the world<br>
