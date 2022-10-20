@@ -1,4 +1,4 @@
-# Python-Minecraft 
+# Pycraft 
 A python-replica of the popular game minecraft with exploding tnt, real-world physics, textures, player movement, biomes, chunks, creative mode, fog and so much more.
 
 
